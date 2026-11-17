@@ -6,8 +6,6 @@ I work across computer vision, NLP, tabular machine learning, and LLM
 applications. I focus on reliable evaluation, data quality, deployment,
 and monitoring.
 
-Currently at **Motiv8AI**. Based in the Tel Aviv District, Israel.
-
 ## What I work on
 
 - Production ML systems from research to deployment
